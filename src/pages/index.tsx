@@ -16,7 +16,7 @@ const Home = () => {
             Buy SOL with Naira
           </h2>
           <p className="text-lg text-gray-700 mb-8">
-            The easiest way to on-ramp from NGN to SOL using Next.js, React, and Tailwind CSS.
+            The easiest way to on-ramp from NGN to SOL.
           </p>
           <div className="flex justify-center space-x-4">
             <input
